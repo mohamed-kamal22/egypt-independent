@@ -1028,7 +1028,6 @@ main
 footer
 {
     background-color: #231F20;
-    height: 210px;
     color: #fff;
     padding: 15px 0;
 }
@@ -1054,6 +1053,12 @@ footer .social i
 {
     padding: 9px 17px;
     font-size: 1.45em;
+}
+
+footer .copyrights
+{
+    padding-top: 15px;
+    text-align: center;
 }
 
 .scrollTop
